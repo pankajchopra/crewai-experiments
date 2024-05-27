@@ -1,5 +1,4 @@
 # CREWAI experiments
-
 ------ 
 
 For my experiments with CrewAI, I decided to try 3 different projects, starting from the easiest to the most complex. The aim of the experiments was to have a team of AI agents do following work for me:
@@ -62,3 +61,27 @@ For my experiments with CrewAI, I decided to try 3 different projects, starting 
 13. **Phi-2**  
 - The smallest model ran into biggest problems
 - Lost track of what it's suppose to do, no output
+
+#other helpful links
+Promised links:
+
+My Github CrewAI Repo: 
+https://github.com/majacinka/crewai-e...
+
+CrewAI: 
+https://github.com/joaomdmoura/crewAI
+
+AI agent landscape (as seen on 2:09):
+https://github.com/e2b-dev/awesome-ai...
+
+Serper Free Signup:
+https://serper.dev
+
+Andrej's video: 
+  ￼ • [1hr Talk] Intro to Large Langua...  
+
+Gemini Free API Key:
+https://makersuite.google.com/app
+
+LangChain Tools:
+https://python.langchain.com/docs/int.
